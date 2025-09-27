@@ -1,2 +1,2 @@
 # GitHubLearning
-It's for github learning
+It's for GitHub learning
